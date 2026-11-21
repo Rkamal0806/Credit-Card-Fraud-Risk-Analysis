@@ -31,7 +31,7 @@ This project focuses on analysing credit card transaction data to explore fraudu
 
 ### Dashboard Overview
 
-![Dashboard Overview](screenshots/dashboard-overview.png)
+![Dashboard Overview](Credit_card_Fraud_risk_dashboard.png)
 
 ## 🔍 Key Analysis Areas
 
